@@ -155,7 +155,7 @@ following Python code and corresponding PySTEMM visualization:
     Concept Instance of TableFunction.
 
 Note that ``tf``, the instance of ``TableFunction``, is shown in the same
-color as the ``TableFunction`` class. It’s domain was calculated from its
+color as the ``TableFunction`` class. Its domain was calculated from its
 list of points, its value at x=1 evaluates to 10, and the logic for its
 ``eval()`` is shown in the context of the instance, so it is quite easy to
 understand.
@@ -492,7 +492,7 @@ object, typically a concept class, or a concept instance. The
 
 Animation Templates have some special case handling (not shown here)
 since their functions take 2 parameters: the *instance* to be rendered,
-and the value of *time* at which to render it’s attributes.
+and the value of *time* at which to render its attributes.
 
 
 
